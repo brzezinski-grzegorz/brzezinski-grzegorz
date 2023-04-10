@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 I'm a begginer backend developer mainly specializing in PHP, MySQL and C#.
 
@@ -13,3 +14,4 @@ I'm a begginer backend developer mainly specializing in PHP, MySQL and C#.
 [![](https://visitcount.itsvg.in/api?id=brzezinski-grzegorz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
