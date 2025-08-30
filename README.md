@@ -1,6 +1,6 @@
 <div align="center">
 # 💫 About Me:
-I'm a begginer front & backend developer mainly specializing in PHP, MySQL and C#.
+I'm a front & backend developer mainly specializing in PHP, MySQL and C#.
 
 
 # 💻 Tech Stack:
